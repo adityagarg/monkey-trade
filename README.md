@@ -1,0 +1,1 @@
+![algo_trading_reality](assets/engineer_syllogism_xkcd.png)
